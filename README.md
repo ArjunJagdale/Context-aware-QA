@@ -12,6 +12,9 @@ short_description: It uses the webpage as context to generate helpful answers
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+https://github.com/user-attachments/assets/4ba3488a-da05-4753-a459-f360e45e7aba
+
+
 # Access the tool here - https://huggingface.co/spaces/ajnx014/Context-Aware-QA
 
 # 📚 Context-Aware QA from a Webpage (FAISS + HuggingFace)
