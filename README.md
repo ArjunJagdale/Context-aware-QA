@@ -13,7 +13,7 @@ short_description: It uses the webpage as context to generate helpful answers
 Checkout the Demo Below:
 
 https://github.com/user-attachments/assets/f56036bb-dc96-4334-a6e4-a67c80084ca9
----
+
 https://github.com/user-attachments/assets/db342017-7ae2-48a4-8b85-0c26716871f4
 
 
