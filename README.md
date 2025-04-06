@@ -10,10 +10,9 @@ pinned: false
 short_description: It uses the webpage as context to generate helpful answers
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Checkout the Demo Below:
 
-https://github.com/user-attachments/assets/4ba3488a-da05-4753-a459-f360e45e7aba
-
+https://github.com/user-attachments/assets/f56036bb-dc96-4334-a6e4-a67c80084ca9
 
 # Access the tool here - https://huggingface.co/spaces/ajnx014/Context-Aware-QA
 
