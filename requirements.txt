@@ -1,0 +1,6 @@
+gradio
+langchain
+faiss-cpu
+huggingface_hub
+langchain_community
+beautifulsoup4
